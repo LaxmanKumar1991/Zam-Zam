@@ -1,0 +1,80 @@
+body{
+    background: #f4f4f4;
+    margin: 0;
+
+}
+.container{
+    margin: 0 auto;
+    background: #fff;
+}
+.header{
+    padding: 45px 0 20px 40px;
+    border: 2px solid black;
+}
+.link-tittle{
+    text-decoration: none;
+    font-size: 28px;
+    columns: #444444;
+}
+.menu{
+    background: #3b7687;
+    padding: 6px 0 10px 20px;
+}
+.menu a{
+    color: #c5d6db;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arial Narrow", "myriad Pro";
+}
+.menu a:hover{
+    color: #d7dedf;
+}
+aside{
+    float: left;
+    width: 150px;
+    padding: 60px 2px 10px 40px;
+}
+h1{
+    margin: 0px;
+    color: #869843;
+    font-size: 30px;
+    font-family: "Arial Narrow", "myriad Pro";
+    font-weight: normal;
+}
+#home-image img{
+    width: 100%;
+}
+.main{
+    margin: 0 0 0 180px;
+    padding: 35px 40px 35px 10px;
+    color: #444444;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 22px;
+    text-align: justify;
+}
+footer{
+    padding: 6px 40px 6px 60px;
+    background-color: #d6d6d6;
+    font-family: "lucida Sans Unicode";
+    color: #444444;
+    font-size: 11px;
+    text-decoration: right;
+}
+footer a{
+    text-decoration: none;
+    color: #262626;
+}
+.seperator{
+    color: #ffffff;
+    font-size: 11px;
+}
+#contact #form{
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+    margin: 50px auto;
+    border: 2px solid black;
+} 
+.page-heading{
+    text-align: right;
+}
